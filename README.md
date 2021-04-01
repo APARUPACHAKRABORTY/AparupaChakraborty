@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif" alt="gif" /> 
+<p align="center"><img src="https://media.giphy.com/media/u7RFQeEvPkrJYc26tM/giphy.gif" alt="gif"/> </p>
 <h1 align="center">Welcome in my little world💖</h1>
 <h2 align="center">Hi 👋, I'm AparupaChakraborty</h2>
 <h3 align="center">A passionate frontend developer in India</h3>
