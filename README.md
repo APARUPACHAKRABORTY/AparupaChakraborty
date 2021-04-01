@@ -15,6 +15,8 @@ I pursuing B.TECH  in Computer Science and Engineering from JIS College Of Engin
 - 📫 How to reach me **aparupachak2410@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+<p align="left"> <img src="https://media.giphy.com/media/3bu85lsWhBTlWcOMN6/giphy.gif" alt="gif" /></p>
+ <p align="Right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
