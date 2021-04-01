@@ -3,6 +3,10 @@
 <h3 align="center">A passionate frontend developer in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparupachakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="aparupachakraborty" /> </p>
+ Who Am I?
+
+I pursuing B.TECH  in Computer Science and Engineering from JIS College Of Engineering. Also have completed the Diploma Engineering in Computer Science And Technology from Gomati District Polytechnic,Tripura. I have a curiosity to explore and learn new things. I'm passionate about Web Development, Machine learning and AWS. 
+
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine learning**
 
